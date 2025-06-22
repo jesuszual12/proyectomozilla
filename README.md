@@ -58,10 +58,10 @@ El proyecto está organizado en módulos para facilitar el mantenimiento y la ex
 A continuación se muestra una captura de pantalla de la ejecución del scraper y los archivos generados:
 
 ### Consola de ejecución
-![Ejecución del scraper](./img/ejecucion.png)
+![Ejecución del scraper](./img/ejecucion.jpg)
 
 ### Archivos de salida
-![Archivos generados](./img/estructura.png)
+![Archivos generados](./img/estructura.jpg)
 
 ---
 
